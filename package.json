@@ -1,0 +1,23 @@
+{
+  "name": "Travel-Land",
+  "version": "1.0.0",
+  "description": "Der Reiseführer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matlis02361/Travel-Land.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matlis02361/Travel-Land/issues"
+  },
+  "homepage": "https://github.com/matlis02361/Travel-Land#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
